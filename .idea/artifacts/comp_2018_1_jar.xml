@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="comp-2018-1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/comp_2018_1_jar</output-path>
+    <root id="archive" name="comp-2018-1.jar">
+      <element id="module-output" name="comp-2018-1" />
+    </root>
+  </artifact>
+</component>
